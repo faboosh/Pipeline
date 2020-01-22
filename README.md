@@ -1,7 +1,7 @@
 # PIPELINE
 A chat application that allows the user to create private chats and chat channels. Built with JS, SASS, MongoDB and NodeJS.
 
-How to start project:
+Setup instructions:
 1. Run "npm install".
 2. Run "node emojiBuild.js".
 3. Run "node server.js" (Uses port 3000).
