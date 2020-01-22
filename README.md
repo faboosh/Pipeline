@@ -1,5 +1,5 @@
 # PIPELINE
-Slack clone
+A chat application that allows the user to create private chats and chat channels. Built with JS, SASS, MongoDB and NodeJS.
 
 How to start project:
 1. Run "npm install".
